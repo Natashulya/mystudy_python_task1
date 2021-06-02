@@ -1,0 +1,2 @@
+# mystudy
+python basics homework
